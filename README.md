@@ -121,4 +121,22 @@ The downside of virtual machine technologies is that having resources indirectly
 </ul>
 </li>
 </ul>
+<h2 id="machine-imaging">Machine Imaging</h2>
+<ul>
+<li>A system image makes a copy or a clone of the entire computer system inside a single container such as a file.</li>
+<li>The system imaging program is used to make this image and can be used later to restore a system image.</li>
+<li>Some imaging programs can take snapshots of systems, and most allow<br>
+you to view the files contained in the image and do partial restores</li>
+<li>A prominent example of a system image and how it can be used in cloud computing architectures is the Amazon Machine Image (AMI) used by Amazon Web Services to store copies of a virtual machine. Because this is a key feature of Amazon’s Elastic Compute Cloud.</li>
+<li>An AMI is a file system image that contains an operating system, all appropriate device drivers, and any applications and state information that the working virtual machine would have.</li>
+</ul>
+<h2 id="porting-application">Porting Application</h2>
+<ul>
+<li>Cloud computing applications have the ability to run on virtual systems and for these systems to be moved as needed to respond to demand.</li>
+<li>Systems (VMs running applications), storage, and network assets can all be virtualized and have sufficient flexibility to give acceptable distributed WAN application performance.</li>
+<li>Developers who write software to run in the cloud will undoubtedly<br>
+want the ability to port their applications from one cloud vendor to another, but that is a much more difficult proposition.</li>
+<li>Cloud computing is a relatively new area of technology, and the major<br>
+vendors have technologies that don’t interoperate with one another.</li>
+</ul>
 
