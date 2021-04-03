@@ -31,7 +31,6 @@ The very nature of the cloud, reduces OPEX (Operational Expenditure) that would 
 <li>Standardized SKUs that allow you to quickly and easily turn up new resources without having to spec and test them for performance and compatibility.</li>
 <li>Disaster recovery that is built in and automatically expands and contracts as your usage changes.</li>
 <li>Built in intelligence that monitors the health of the system.</li>
-<li></li>
 </ol>
 <h2 id="computing-the-total-cost-of-ownership">Computing the Total cost of ownership</h2>
 <ul>
