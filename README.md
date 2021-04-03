@@ -34,10 +34,35 @@ The very nature of the cloud, reduces OPEX (Operational Expenditure) that would 
 </ol>
 <h2 id="computing-the-total-cost-of-ownership">Computing the Total cost of ownership</h2>
 <ul>
+<li>The Total Cost of Ownership or TCO is a financial estimate for the costs of the use of a product or service over its lifetime, often broken out on a yearly or quarterly basis.</li>
 <li>TCO is the metric that organizations use to quantify and measure cloud adoption success.</li>
 <li>This perspective helps you understand the return on investment so that we can prioritize and focus.</li>
 <li>By capturing the key cost considerations, we gain a workable model that we can use to make informed decisions.</li>
+<li>it is common to create spreadsheets that predict the costs of using the cloud computing model versus performing the same functions in-house or on-premises.</li>
 </ul>
+<h2 id="specifying-service-level-agreements">Specifying Service Level Agreements</h2>
+<p>A Service Level Agreement (SLA) is the contract for performance negotiated between you and a service provider. In the early days of cloud computing, all SLAs were negotiated between a client and the provider.</p>
+<p><strong>SLAs usually specify these parameters:</strong></p>
+<ul>
+<li>Availability of the service (uptime)</li>
+<li>Response times or latency</li>
+<li>Reliability of the service components</li>
+<li>Responsibilities of each party</li>
+<li>Warranties</li>
+</ul>
+<p>If a vendor fails to meet the stated targets or minimums, it is punished by having to offer the client a credit or pay a penalty.</p>
+<ul>
+<li><strong>Windows Azure SLA:</strong> “Windows Azure has separate SLA’s for compute and storage. For compute, we guarantee that when you deploy two or more role instances in different fault and upgrade domains, your Internet facing roles will have external connectivity at least 99.95% of the time. Additionally, we will monitor all of your individual role instances and guarantee that 99.9% of the time we will detect when a role instance’s process is not running and initiate corrective action.”</li>
+</ul>
+<h2 id="defining-licensing-models">Defining Licensing Models</h2>
+<p>When you purchase shrink-wrapped software, you are using that software based on a licensing agreement called a EULA or End User License Agreement. The EULA may specify that the software meets the following criteria:</p>
+<ul>
+<li>It is yours to own</li>
+<li>l It can be installed on a single or multiple machines</li>
+<li>It allows for one or more connections.</li>
+<li>It has whatever limit the ISV has placed on its software.</li>
+</ul>
+<p>In most instances, the purchase price of the software is directly tied to the EULA.</p>
 <h1 id="understanding-services-and-applications-by-type"><strong>Understanding Services and applications by Type</strong></h1>
 <p>There are different service models in Cloud computing. With the advancement of technology, newer service models are evolving. However there are 3 major service models for Cloud Computing. These are <strong>Iaas</strong>, <strong>Paas</strong>, and <strong>SaaS</strong>.</p>
 <ul>
