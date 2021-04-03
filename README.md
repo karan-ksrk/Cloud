@@ -64,6 +64,8 @@ The very nature of the cloud, reduces OPEX (Operational Expenditure) that would 
 </ul>
 <p>In most instances, the purchase price of the software is directly tied to the EULA.</p>
 <h1 id="understanding-cloud-architecture"><strong>Understanding Cloud Architecture</strong></h1>
+<h2 id="cloud-computing-stack">Cloud computing stack</h2>
+<img src="https://slideplayer.com/slide/14368555/89/images/6/Arch+dig+illustrates+the+Portion+of+cloud+computing+stack+that+is+designated+as+the+server.jpg">
 <h2 id="connecting-to-the-cloud">Connecting to the Cloud</h2>
 <p>Clients can connect to a cloud service in a number of different ways. These are the two most common means:</p>
 <ul>
