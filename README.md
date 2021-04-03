@@ -52,6 +52,7 @@ The very nature of the cloud, reduces OPEX (Operational Expenditure) that would 
 <p><strong>SaaS</strong>  – In Software as a Service, user can access software applications from the cloud. You no longer would need to buy the expensive software. You can access the software through a thin client interface, like a web browser. Similar to the other service models, you cannot control the underlying infrastructure. You can run the applications in the cloud and the cloud administrator manages the portions.</p>
 </li>
 </ul>
+<img src="https://www.redhat.com/cms/managed-files/iaas-paas-saas-diagram5.1-1638x1046.png">
 <h1 id="understanding-abstraction-and-virtualization"><strong>Understanding Abstraction and Virtualization</strong></h1>
 <h2 id="virtualization">Virtualization</h2>
 <ul>
