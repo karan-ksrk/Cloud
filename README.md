@@ -63,6 +63,19 @@ The very nature of the cloud, reduces OPEX (Operational Expenditure) that would 
 <li>It has whatever limit the ISV has placed on its software.</li>
 </ul>
 <p>In most instances, the purchase price of the software is directly tied to the EULA.</p>
+<h1 id="understanding-cloud-architecture"><strong>Understanding Cloud Architecture</strong></h1>
+<h2 id="connecting-to-the-cloud">Connecting to the Cloud</h2>
+<p>Clients can connect to a cloud service in a number of different ways. These are the two most common means:</p>
+<ul>
+<li>A Web browser</li>
+<li>A proprietary application</li>
+</ul>
+<p>These applications can be running on a server, a PC, a mobile device, or a cell phone. What these devices have in common with either of these application types is that they are exchanging data over an inherently insecure and transient medium. There are three basic methods for securely connecting over a connection:</p>
+<ul>
+<li>Use a secure protocol to transfer data such as SSL (HTTPS), FTPS, or IPsec, or connect using a secure shell such as SSH to connect a client to the cloud.</li>
+<li>Create a virtual connection using a virtual private network (VPN), or with a remote data transfer protocol such as Microsoft RDP or Citrix ICA, where the data is protected by a tunneling mechanism.</li>
+<li>Encrypt the data so that even if the data is intercepted or sniffed, the data will not be meaningful.</li>
+</ul>
 <h1 id="understanding-services-and-applications-by-type"><strong>Understanding Services and applications by Type</strong></h1>
 <p>There are different service models in Cloud computing. With the advancement of technology, newer service models are evolving. However there are 3 major service models for Cloud Computing. These are <strong>Iaas</strong>, <strong>Paas</strong>, and <strong>SaaS</strong>.</p>
 <ul>
