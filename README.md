@@ -92,12 +92,6 @@ In this type of virtualization, the operating system of a desktop system is move
 <li><strong>Metered usage:</strong> Services are billed on a usage basis.</li>
 <li><strong>Internet delivery:</strong> The services provided by cloud computing are based on Internet protocols and formats.</li>
 </ul>
-<hr>
-<h2 id="content-distribution-network-cdn"><strong>Content Distribution Network (CDN)</strong></h2>
-<p>CDN is a big distributed server system, which are deployed in different data centers, connected through the Internet. The objective of CDN is serving content with high availability and performance to customers. Some examples would the downloadable objects like the media files and software, web objects like text and scripts, live streaming content, social network, and e-commerce applications.</p>
-<p>In this technology, content is replicated and available on different servers, located globally. There can be thousands of servers, which makes the availability of the same content to global users at the same time possible. To optimize the speed of delivery of the content, when the request is placed, the content is provided from the server closest to the user. Hence, there would be no delay even if multiple users try to access the same content at the same time. CDN also offers advanced data backup and archiving. So CDN is widely used by businesses depending on online data backup.</p>
-<p>The concept and implementation of CDN is important for virtualization and cloud computing so that the servers can be strategically be placed closest to the users for better performance.</p>
-<hr>
 <h1 id="load-balancing-and-virtualization"><strong>Load Balancing and Virtualization</strong></h1>
 <ul>
 <li>The technology used to distribute service requests to resources is referred to as load balancing.</li>
